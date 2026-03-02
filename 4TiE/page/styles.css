@@ -1,0 +1,36 @@
+.navbar{
+    margin: 20px;
+    float: right;
+    margin-right: 50px;
+    margin: 20px 20px;
+    box-shadow: 7px 6px;
+}
+header{
+    box-shadow: 6px 7px;
+}
+.logo{
+    width: 100px;
+    height: auto;
+}
+#link{
+    padding: 1%;
+    margin: 1%;
+    padding-left: 10%;
+}
+body{
+    background-color: darkturquoise;
+
+}
+footer{ 
+    text-align: center;
+
+}
+img{
+    height: 300px;
+    border-radius: 10px;
+    width: 100%;
+
+}
+*{
+    text-align: center;
+}
